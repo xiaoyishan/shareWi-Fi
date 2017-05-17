@@ -3,6 +3,6 @@
 
 
 开机启动设置和启动：
-(https://github.com/xiaoyishan/shareWi-Fi/blob/master/3.png)
-(https://github.com/xiaoyishan/shareWi-Fi/blob/master/3.png)
-(https://github.com/xiaoyishan/shareWi-Fi/blob/master/3.png)
+ ![image](https://github.com/xiaoyishan/shareWi-Fi/blob/master/3.png)
+ ![image](https://github.com/xiaoyishan/shareWi-Fi/blob/master/3.png)
+ ![image](https://github.com/xiaoyishan/shareWi-Fi/blob/master/3.png)
